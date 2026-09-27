@@ -9,9 +9,9 @@
 
 ## Student Details
 
-- Student Name: YOUR NAME
-- PRN: YOUR PRN
-- Class/Division: YOUR CLASS/DIVISION
+- Student Name: Sahil Dhumal
+- PRN: 125UAD11258
+- Class/Division:SY B
 
 ## Programs
 
