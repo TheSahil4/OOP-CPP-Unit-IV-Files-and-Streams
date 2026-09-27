@@ -1,0 +1,8 @@
+Enter file name: 
+File Statistics
+Lines: 2
+Words: 8
+Characters: 52
+Vowels: 12
+Digits: 4
+Spaces: 6

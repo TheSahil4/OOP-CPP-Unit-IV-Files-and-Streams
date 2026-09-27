@@ -1,0 +1,22 @@
+
+Library Record System
+1. Add Book
+2. Display Books
+0. Exit
+Enter choice: Enter book ID: Enter title: Enter author: Book added successfully.
+
+Library Record System
+1. Add Book
+2. Display Books
+0. Exit
+Enter choice: Book ID: 101
+Title: C++ Programming
+Author: Bjarne Stroustrup
+Status: Available
+-------------------------
+
+Library Record System
+1. Add Book
+2. Display Books
+0. Exit
+Enter choice: Exiting program.

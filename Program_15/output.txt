@@ -1,0 +1,57 @@
+
+Student Record Manager
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Marks
+0. Exit
+Enter choice: Enter roll number: Enter name: Enter marks: Record added successfully.
+
+Student Record Manager
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Marks
+0. Exit
+Enter choice: 
+Roll No.	Name		Marks
+----------------------------------------
+101		Amit Patil		85.5
+
+Student Record Manager
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Marks
+0. Exit
+Enter choice: Enter roll number to search: Record Found
+Roll Number: 101
+Name: Amit Patil
+Marks: 85.5
+
+Student Record Manager
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Marks
+0. Exit
+Enter choice: Enter roll number to update: Enter new marks: Marks updated successfully.
+
+Student Record Manager
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Marks
+0. Exit
+Enter choice: 
+Roll No.	Name		Marks
+----------------------------------------
+101		Amit Patil		95
+
+Student Record Manager
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Marks
+0. Exit
+Enter choice: Exiting program.

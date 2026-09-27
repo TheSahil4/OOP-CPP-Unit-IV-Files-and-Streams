@@ -1,0 +1,5 @@
+Output position after writing: 5
+First character: A
+Input position after reading one character: 1
+Character at position 2: C
+Navigation completed. Check navigation.txt

@@ -1,0 +1,3 @@
+Enter record number to read (1 to 3): Roll Number: 102
+Name: Neha
+Marks: 91

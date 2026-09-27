@@ -1,0 +1,2 @@
+Error: File could not be opened.
+Check whether missing_file.txt exists in the current folder.
